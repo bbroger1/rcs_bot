@@ -1,0 +1,19 @@
+Bot telegram
+
+npm init
+
+pacotes utilizados - 
+     https://www.npmjs.com/package/node-telegram-bot-api
+
+	npm i node-telegram-bot-api --save
+
+     dialogflow
+	
+	https://dialogflow.cloud.google.com/#/editAgent/bot-dio-src9/
+	- gerar chave do dialogflow
+          https://console.cloud.google.com/iam-admin/serviceaccounts/details/105939521173426668848/keys?project=bot-dio-src9
+
+	Copiar o json com a chave para dentro do projeto.
+	
+	Autorizar o email do bot na opção IAM do GCP
+	//"client_email": "bot-dio@bot-dio-src9.iam.gserviceaccount.com",

@@ -1,0 +1,28 @@
+{
+  "name": "rcs_bot",
+  "version": "1.0.0",
+  "description": "Bot teste do telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbroger1/rcs_bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "RCS Soft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbroger1/rcs_bot/issues"
+  },
+  "homepage": "https://github.com/bbroger1/rcs_bot#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.53.0",
+    "youtube-node": "^1.3.3"
+  }
+}
